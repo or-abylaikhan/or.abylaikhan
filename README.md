@@ -7,7 +7,7 @@
     - 🌟 Focused on creating efficient, user-friendly software solutions.<br>
     - 🌍 I'm fluent in Kazakh, Russian, and English.<br>
     - 🎨 Merging technical expertise with creative problem-solving.<br><br>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center"><br><br>
+    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="240px" align="center"><br><br>
     ☕️ Contact me via <a href="https://telegram.me/or_abylaikhan">Telegram</a>
   </samp>
 </p>
